@@ -1,0 +1,691 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Project638
+</name>
+</assembly>
+<members>
+<member name="T:Project638.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Project638.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Project638.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.appointmentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.bloodsuppliesvendorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.bloodsupplyDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.bloodsupply_bloodsuppliesvendorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.doctorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.employeeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.employeeorderDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.employeeorder_bloodsupplyDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.employeeorder_medicalsupplyDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.inpatientDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.medicalsuppliesvendorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.medicalsupplyDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.medicalsupply_medicalsuppliesvendorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.outpatientDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.patientDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.payrollDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.roomDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.room_serviceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.serviceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.doctor_appointmentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.doctor_appointments_perday_high2lowDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.doctor_patient_appointmentsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.employee_ordersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.employee_salaryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.employeepayDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.employeestatisticsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.patient_serviceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.patientaccomodationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.patientaccomodation1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.patientappointmentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.vendorsupplylistDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.appointmentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.bloodsuppliesvendorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.bloodsupplyRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.bloodsupply_bloodsuppliesvendorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.doctorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.employeeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.employeeorderRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.employeeorder_bloodsupplyRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.employeeorder_medicalsupplyRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.inpatientRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.medicalsuppliesvendorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.medicalsupplyRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.medicalsupply_medicalsuppliesvendorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.outpatientRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.patientRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.payrollRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.roomRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.room_serviceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.serviceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.doctor_appointmentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.doctor_appointments_perday_high2lowRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.doctor_patient_appointmentsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.employee_ordersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.employee_salaryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.employeepayRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.employeestatisticsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.patient_serviceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.patientaccomodationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.patientaccomodation1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.patientappointmentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.vendorsupplylistRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.appointmentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.bloodsuppliesvendorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.bloodsupplyRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.bloodsupply_bloodsuppliesvendorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.doctorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.employeeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.employeeorderRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.employeeorder_bloodsupplyRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.employeeorder_medicalsupplyRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.inpatientRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.medicalsuppliesvendorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.medicalsupplyRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.medicalsupply_medicalsuppliesvendorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.outpatientRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.patientRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.payrollRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.roomRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.room_serviceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.serviceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.doctor_appointmentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.doctor_appointments_perday_high2lowRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.doctor_patient_appointmentsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.employee_ordersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.employee_salaryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.employeepayRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.employeestatisticsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.patient_serviceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.patientaccomodationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.patientaccomodation1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.patientappointmentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSet.vendorsupplylistRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSetTableAdapters.appointmentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSetTableAdapters.bloodsuppliesvendorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSetTableAdapters.bloodsupplyTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSetTableAdapters.bloodsupply_bloodsuppliesvendorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSetTableAdapters.doctorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSetTableAdapters.employeeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSetTableAdapters.employeeorderTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSetTableAdapters.employeeorder_bloodsupplyTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSetTableAdapters.employeeorder_medicalsupplyTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSetTableAdapters.inpatientTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSetTableAdapters.medicalsuppliesvendorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSetTableAdapters.medicalsupplyTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSetTableAdapters.medicalsupply_medicalsuppliesvendorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSetTableAdapters.outpatientTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSetTableAdapters.patientTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSetTableAdapters.payrollTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSetTableAdapters.roomTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSetTableAdapters.room_serviceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSetTableAdapters.serviceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSetTableAdapters.doctor_appointmentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSetTableAdapters.doctor_appointments_perday_high2lowTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSetTableAdapters.doctor_patient_appointmentsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSetTableAdapters.employee_ordersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSetTableAdapters.employee_salaryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSetTableAdapters.employeepayTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSetTableAdapters.employeestatisticsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSetTableAdapters.patient_serviceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSetTableAdapters.patientaccomodationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSetTableAdapters.patientaccomodation1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSetTableAdapters.patientappointmentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSetTableAdapters.vendorsupplylistTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Project638.lorettoDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Project638.lorettoDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Project638.lorettoDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Project638.lorettoDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Project638.lorettoDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Project638.lorettoDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Project638.lorettoDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Project638.lorettoDataSetTableAdapters.TableAdapterManager.UpdateAll(Project638.lorettoDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Project638.lorettoDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
